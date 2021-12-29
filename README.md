@@ -1,12 +1,6 @@
 # scSLE
 This repository contains the code used in our single cell sequencing paper: "Lupus susceptibility loci predispose mice to clonal lymphocytic responses and myeloid expansion"
 
-## Installation guide
-No installation necessary
-
-## Demo
-Model data is included in the `data` directory.
-
 ## Instructions
 1. Download `data` and `code` directories
 2. Set `data` as the working directory
