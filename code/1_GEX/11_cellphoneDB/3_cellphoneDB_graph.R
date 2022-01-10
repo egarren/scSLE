@@ -57,7 +57,7 @@ ggsave2("scores.png",width=4, height=4,device="png")
 #dotplot
 head(unique(df3$interacting_pair),n=50)
 unique(grep("VSIR",df3$interacting_pair,value=T))
-ssig.interact=c("CD40_CD40LG","FCER2_CR2","CSF1_SIRPA","SIRPA_CD47","CEACAM1_CD209","VCAM1_a4b1 complex","SELL_SELPLG")
+sig.interact=c("CD40_CD40LG","FCER2_CR2","CSF1_SIRPA","SIRPA_CD47","CEACAM1_CD209","VCAM1_a4b1 complex","SELL_SELPLG")
 df4<-df3[df3$interacting_pair %in% sig.interact,]
 df4<-df4[df4$`p-val`<0.05,]
 ggplot(data = df4, mapping = aes_string(x = "receptor.cell", y = "interacting_pair")) + 
