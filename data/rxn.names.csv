@@ -1,0 +1,151 @@
+rxn,label
+PGM_neg,phosphoglycerate mutase (PGAM)
+LDH_L_neg,lactate dehydrogenase
+PDHm_pos,pyruvate dehydrogenase (PDH)
+TPI_neg,triosephosphate isomerase (DHAP forming)
+FACOAL1821_neg,long-chain fatty-acid-CoA ligase
+r1257_pos,long-chain fatty-acid-CoA ligase
+FACOAL1831_neg,long-chain fatty-acid-CoA ligase
+CSNATr_neg,carnitine O-acetyltransferase
+C160CPT1_pos,carnitine O-palmitoyltransferase
+ACONTm_pos,aconitate hydratase
+SUCOASm_pos,succinate-CoA ligase
+AKGDm_pos,alpha-ketoglutarate dehydrogenase
+SUCD1m_pos,succinate dehydrogenase
+ICDHyrm_pos,isocitrate dehydrogenase
+CK_pos,creatine kinase
+PGCD_pos,phosphoglycerate dehydrogenase
+ARGSS_pos,arginosuccinate synthase
+r0281_neg,putrescine diamine oxidase
+SPMDOX_pos,spermidine dehydrogenase (spermidine -> GABA)
+ARGDCm_pos,arginine decarboxylase
+AGMTm_pos,agmatinase
+GHMT2r_pos,serine hydroxymethyltransferase
+AHC_pos,adenosylhomocysteinase
+METAT_pos,methionine adenosyltransferase
+METS_pos,methionine synthase
+ARGN_pos,arginase
+PGI_pos,glucose-6-phosphate isomerase
+PGMT_pos,phosphoglucomutase
+TALA_neg,transaldolase
+FPGS2_pos,folylpolyglutamate synthetase
+FPGS4_pos,folylpolyglutamate synthetase
+FPGS5_pos,folylpolyglutamate synthetase
+FPGS7_pos,folylpolyglutamate synthetase
+FPGS8_pos,folylpolyglutamate synthetase
+FPGS_pos,folylpolyglutamate synthetase
+FPGS3_pos,folylpolyglutamate synthetase
+FPGS6_pos,folylpolyglutamate synthetase
+FPGS9_pos,folylpolyglutamate synthetase
+ENO_pos,enolase
+ARGNm_pos,arginase
+CBPSam_pos,carbamoyl-phosphate synthase
+OCBTm_pos,ornithine carbamoyltransferase
+LPS_pos,lipase
+PUNP7_neg,purine-nucleoside phosphorylase
+FUM_neg,fumarase
+NADNe_pos,NAD nucleosidase
+TMDK1m_pos,thymidine kinase
+r0009_pos,pyrophosphate phosphohydrolase
+GLYAMDTRc_pos,glycine amidinotransferase
+HXPRT_pos,hypoxanthine phosphoribosyltransferase
+UDPG4E_neg,UDPglucose 4-epimerase
+MDH_neg,malate dehydrogenase
+ASPTA_pos,aspartate transaminase
+ARGSL_pos,argininosuccinate lyase
+LTD4DP_pos,leukotriene D4 dipeptidase
+r0166_pos,uridine triphosphate pyrophosphohydrolase
+r1384_pos,guanosine aminohydrolase
+DPGM_pos,diphosphoglyceromutase
+DPGase_pos,diphosphoglycerate phosphatase
+KYN3OX_pos,kynurenine 3-monooxygenase
+ACOAD8m_pos,acyl-CoA dehydrogenase
+NTP3e_pos,nucleoside-triphosphatase
+LEUTAm_pos,leucine transaminase
+ILETA_neg,isoleucine transaminase
+PCm_pos,pyruvate carboxylase
+G6PDH1rer_neg,glucose-6-phosphate dehydrogenase
+G6PDH2rer_pos,glucose-6-phosphate dehydrogenase
+G6PDH1rer_pos,glucose-6-phosphate dehydrogenase
+G6PDH2rer_neg,glucose-6-phosphate dehydrogenase
+NTD5m_pos,5'-nucleotidase
+KYN_pos,kynureninase
+r0514_pos,NADP+ oxidoreductase
+FACOAL181i_pos,C181 fatty acid activation
+ADNCYC_pos,adenylate cyclase
+ADSL1_pos,adenylosuccinate lyase
+AMPDA_pos,adenosine monophosphate deaminase
+r0068_pos,acetyl adenylate-CoA ligase
+r0097_pos,acetate CoA ligase
+ASPTA_neg,aspartate transaminase
+ADA_pos,adenosine deaminase
+DADA_pos,deoxyadenosine deaminase
+FACOAL191_pos,fatty-acid-CoA ligase
+LPSe_pos,lipase
+FACOAL200_pos,fatty-acid-CoA ligase
+RE0926E_pos,maltopentaose
+GAMYe_pos,glucoamylase
+P4502C9_pos,cytochrome P450
+ARABR_pos,arabinose reductase
+EICOSTETCPT1_pos,carnitine O-palmitoyltransferase
+PGI_neg,glucose-6-phosphate isomerase
+TPI_pos,triose-phosphate isomerase
+STRDNCCPT1_pos,carnitine O-palmitoyltransferase
+ALR2_pos,aldose reductase
+GTHP_pos,glutathione peroxidase
+r1384_pos,guanosine aminohydrolase
+FBA5_pos,5'-nucleotidase
+KHK3_pos,ketohexokinase
+GUAPRT_pos,guanine phosphoribosyltransferase
+HXPRT_pos,hypoxanthine phosphoribosyltransferase (Hypoxanthine)
+FPGS2_pos,folylpolyglutamate synthetase
+FPGS3_pos,folylpolyglutamate synthetase
+KHK_pos,ketohexokinase
+GALASE19ly_pos,beta-galactosidase
+DCSPTN1CPT1_pos,carnitine O-palmitoyltransferase
+OCBTm_pos,ornithine carbamoyltransferase
+FACOAL200_pos,fatty-acid-CoA ligase
+NADNe_pos,NAD nucleosidase
+NADPNe_pos,NADP nucleosidase
+NDPK10_neg,nucleoside-diphosphate kinase
+FBA_pos,fructose-bisphosphate aldolase
+TALA_pos,transaldolase
+URIK1_pos,uridine kinase
+FPGS2_pos,folylpolyglutamate synthetase
+TALA_neg,transaldolase
+NDPK9_neg,nucleoside-diphosphate kinase
+FPGS3_pos,folylpolyglutamate synthetase
+G6PDA_pos,glucosamine-6-phosphate deaminase
+ADKd_neg,adenylate kinase
+FBP_pos,fructose-bisphosphatase
+GALASE19ly_pos,beta-galactosidase
+G6PDH1rer_neg,glucose-6-phosphate dehydrogenase
+r0208_pos,GTP:alpha-D-mannose-1-phosphate guanylyltransferase 
+NNMT_pos,nicotinamide N-methyltransferase
+DPMVDx_pos,diphosphomevalonate decarboxylase
+MEVK1x_pos,mevalonate kinase
+ABTArm_neg,4-aminobutyrate transaminase
+GALASE16ly_pos,beta-galactosidase
+NACHEX23ly_pos,beta-N-acetylhexosaminidase
+S23T2g_pos,"beta-galactoside alpha-2,3-sialyltransferase"
+S6TASE22ly_pos,galactose-6-sulfate sulfatase
+SIAASE3ly_pos,sialidase
+FUCASE2e_pos,alpha-fucosidase
+r0009_pos,pyrophosphate phosphohydrolase
+PPA_pos,inorganic diphosphatase
+F1PGT_pos,fucose-1-phosphate guanylyltransferase
+FK_pos,fucokinase
+GASNASE2ly_pos,glycosylasparaginase
+r0739_neg,alcohol dehydrogenase
+SQLEr_pos,squalene epoxidase
+FACOAL226_neg,fatty-acid-CoA ligase
+DCSPTN1CPT1_pos,carnitine O-palmitoyltransferase
+ASPCTr_pos,aspartate carbamoyltransferase
+DUTPDPm_pos,dUTP diphosphatase
+PIK3_pos,phosphatidylinositol 3-kinase
+CDSm_pos,phosphatidate cytidylyltransferase
+GBAl_pos,glucosylceramidase
+ADSL1_pos,adenylosuccinate lyase
+ASPTA_neg,aspartate transaminase
+KHK3_pos,ketohexokinase
+FAOXC160_pos,LCFA beta oxidation
